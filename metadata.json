@@ -1,0 +1,6 @@
+{
+  "name": "Saraiki Culture Portal",
+  "description": "A modern, premium cultural portal celebrating the rich heritage, language, poetry, history, cities, and traditions of the Saraiki people in South Punjab, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
